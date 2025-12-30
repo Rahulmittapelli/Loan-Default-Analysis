@@ -12,7 +12,7 @@ The dashboard follows real-world BI best practices with a clean UI, rounded cont
 ---
 
 ## 📸 Dashboard Preview
-![Loan Default Analysis Dashboard] 
+![Loan Default Analysis Dashboard] (https://github.com/Rahulmittapelli/Loan-Default-Analysis/blob/main/Dashboard%20Overview.png)
 
 
 ---
